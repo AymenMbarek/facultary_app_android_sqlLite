@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SchoolApp</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_text">Welcome To School App<br> Login To continue</br></string>
+    <string name="robert">robert</string>
+    <string name="navigation_drawer_open">Drawer open</string>
+    <string name="navigation_drawer_close">Drawer closed</string>
+    <string name="todo">TODO</string>
+    <string name="first_name">first name</string>
+    <string name="programe">programe</string>
+    <string name="title">REGISTER NEW COURSE</string>
+    <string name="course_name">course name</string>
+    <string name="course_code">course code</string>
+    <string name="course_credit">course credit</string>
+    <string name="course_semister">course semister</string>
+    <string name="course_year">course year</string>
+    <string name="select_programme">SELECT PROGRAMME</string>
+    <string name="BSCS">Bsc In Computer science</string>
+    <string name="electronics">Electronics</string>
+    <string name="engineering">Engineering</string>
+    <string name="law">Law</string>
+    <string name="course_category">COURSE CATEGORY</string>
+    <string name="save_course">SAVE COURSE</string>
+    <string name="option">Option</string>
+    <string name="core">Core</string>
+    <string name="telecommunication">Telecommunication</string>
+    <string name="welcome_admin">WELCOME ADMIN</string>
+    <string name="logout">logout</string>
+
+</resources>

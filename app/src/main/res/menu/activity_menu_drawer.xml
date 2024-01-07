@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/user"
+            android:title="home"
+            />
+
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/user"
+            android:title="register student"
+            />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/user"
+            android:title="register course"
+            />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/user"
+            android:title="register staff"
+            />
+
+
+    </group>
+
+    <item android:title="view section">
+        <menu>
+
+       <item
+        android:id="@+id/item4"
+        android:icon="@drawable/list"
+        android:title="view all student"
+        />
+
+      <item
+        android:id="@+id/item5"
+        android:icon="@drawable/list"
+        android:title="view all courses"
+        />
+
+
+            </menu>
+
+
+        </item>
+
+    <item android:title="section 3">
+
+           <menu>
+
+
+               <item
+                   android:id="@+id/logout"
+                   android:icon="@drawable/signout"
+                   android:title="signout"
+                   />
+           </menu>
+
+        </item>
+
+</menu>
